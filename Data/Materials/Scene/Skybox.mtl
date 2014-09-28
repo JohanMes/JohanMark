@@ -1,0 +1,3 @@
+diffuse1 Scene\Skybox_2.dds
+diffuse2 Scene\Skybox_6.dds
+shader PureTextureMultitexConst
